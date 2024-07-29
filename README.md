@@ -21,9 +21,22 @@ Gemini Chatbot is an intelligent assistant designed to make interactions seamles
 - 🤖 **AI Model**: Advanced natural language processing algorithms to understand and respond to user queries effectively.
 - 🧩 **Riverpod**: State management solution for managing state efficiently across the app.
 
-## Getting Started
+
 
 ### Prerequisites
 
 - 📦 **Flutter SDK**: [Installation Guide](https://flutter.dev/docs/get-started/install)
 - 🛠️ **Dart SDK**: Included with Flutter SDK
+
+### Project Structure 📂
+
+main.dart: Entry point of the application.
+message.dart: Handles message processing and response.
+onboarding.dart: Manages the onboarding process for new users.
+themes.dart: Contains custom theme definitions for the app.
+
+### Contributing 🤝
+Contributions are welcome! Please open an issue or submit a pull request for any improvements or new features. Your feedback is invaluable in making this project better!
+
+License 📜
+This project is licensed under the MIT License. See the LICENSE file for details.
